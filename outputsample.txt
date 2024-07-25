@@ -1,0 +1,21 @@
+count_frame_for_each_audio.py
+Audio file: Speech8.mp3, Frames: 221
+Audio file: Speech3.mp3, Frames: 222
+Audio file: Speech2.mp3, Frames: 300
+Audio file: Speech4.mp3, Frames: 249
+Audio file: Speech6.mp3, Frames: 316
+Audio file: Speech5.mp3, Frames: 379
+Audio file: Speech1.mp3, Frames: 422
+Audio file: TitleAudio.mp3, Frames: 47
+Audio file: Speech7.mp3, Frames: 275
+
+Calculate_frame_for_whole_video.py
+Audio file: TitleAudio, Start frame: 0, End frame: 47
+Audio file: Speech1, Start frame: 47, End frame: 469
+Audio file: Speech2, Start frame: 469, End frame: 769
+Audio file: Speech3, Start frame: 769, End frame: 991
+Audio file: Speech4, Start frame: 991, End frame: 1240
+Audio file: Speech5, Start frame: 1240, End frame: 1619
+Audio file: Speech6, Start frame: 1619, End frame: 1935
+Audio file: Speech7, Start frame: 1935, End frame: 2210
+Audio file: Speech8, Start frame: 2210, End frame: 2431
